@@ -1,0 +1,19 @@
+# Azure IoT dependencies
+azure-iot-device>=2.7.0
+
+# Camera and image processing
+picamera2>=0.3.12
+numpy>=1.21.0
+Pillow>=9.0.0
+
+# HTTP requests for Azure Custom Vision
+requests>=2.28.0
+
+# Async support
+asyncio>=3.4.3
+
+# Drone control
+pymavlink==2.4.37
+
+# Logging and utilities
+python-dotenv>=0.19.0 
