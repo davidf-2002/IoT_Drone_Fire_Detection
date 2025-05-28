@@ -7,6 +7,12 @@ This project is a university assignment focused on developing an IoT-based drone
 The IoT Drone Fire Detection project integrates drone hardware with Python software to perform real-time fire detection. The system utilises sensors and camera input, the data collected by the drone is then analysed to identify fire hazards, and alerts can be sent to relevant authorities or systems for rapid response.
 
 
+## Images
+![Screenshot 2025-05-28 174512](https://github.com/user-attachments/assets/f7a6e3e6-f203-4abe-914e-293b910baea9)
+
+<img src="https://github.com/user-attachments/assets/0e03b79e-e52a-4108-8993-be0bf481ae54" width="300">
+<img src="https://github.com/user-attachments/assets/cd2ff16d-5548-4c0e-a013-01f255198200" width="335">
+
 ## Installation
 
 To run this project, ensure you have Python installed.
